@@ -8,7 +8,6 @@ This is my personal portfolio website built using HTML, CSS, and JavaScript.
 
 # Live Demo
 https://kalyanair1.github.io/portfolio/
-
 # Tech Stack
 - HTML5
 - CSS3
